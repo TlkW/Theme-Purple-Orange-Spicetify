@@ -25,18 +25,20 @@ It is a mix of "comfortable" and beautiful colors, which will make your Spotify 
 - After opening it, go to the themes page and download the ``Nord`` theme
 
 
-   ![image](https://github.com/TlkW/Teste/assets/110054625/c3a3b892-7a5f-4c26-8b76-f9c1b3922d14)
-  
+![3](https://github.com/TlkW/Theme-Purple-Orange-Spicetify/assets/110054625/632aa2f8-5726-4488-b535-9b11a0ea90ca)
+
 
   -  After installing, go to its ``settings``
  
 
-   ![image](https://github.com/TlkW/Teste/assets/110054625/7986ffab-6ca1-49f3-b53a-191ce9894ddf)
+  
+![4](https://github.com/TlkW/Theme-Purple-Orange-Spicetify/assets/110054625/91f5e3db-070d-44f9-8423-b9f46b5d4d40)
 
 
 - Then, press the ``+`` button
   
-![image](https://github.com/TlkW/Teste/assets/110054625/88e9caf9-217f-4f3b-8e37-bd0afe867bdf)
+
+![5](https://github.com/TlkW/Theme-Purple-Orange-Spicetify/assets/110054625/68de8845-cf94-40e3-a159-6857b00bea95)
 
 
 - Then, paste the following code Press ``Import from clipboard``:
