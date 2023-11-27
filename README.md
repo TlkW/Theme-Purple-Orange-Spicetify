@@ -12,8 +12,10 @@ It is a mix of "comfortable" and beautiful colors, which will make your Spotify 
 
 ## 🖼 Demo:
 
-> ![image](https://github.com/TlkW/Teste/assets/110054625/b3cfeb29-fd5a-4bb3-a89c-2f5adc5da421)
-> ![image](https://github.com/TlkW/Teste/assets/110054625/d855eb8d-14be-4260-b5d0-b32be8af9772)
+> ![1](https://github.com/TlkW/Theme-Purple-Orange-Spicetify/assets/110054625/4c807a35-6f5a-4577-8825-0b1991965221)
+
+> ![2](https://github.com/TlkW/Theme-Purple-Orange-Spicetify/assets/110054625/c5f70bfc-e221-417a-a800-596f6e2d3999)
+
 
 <details>
   <summary><b> 👉 Step by step how to install:</b></summary>
